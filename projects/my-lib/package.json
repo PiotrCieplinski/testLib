@@ -11,5 +11,12 @@
   "ngPackage": {
     "dest": "../../dist/my-lib",
     "deleteDestPath": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PiotrCieplinski/testLib"
+  },
+  "scripts": {
+    "start": "ng build"
   }
 }
